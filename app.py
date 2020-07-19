@@ -7,7 +7,8 @@ from nltk.corpus import stopwords
 import nltk
 
 nltk.download('stopwords')
-
+nltk.download('vader_lexicon')
+ 
 set(stopwords.words('english'))
 app = Flask(__name__)
 
