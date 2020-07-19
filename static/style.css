@@ -26,13 +26,13 @@ form, div{
 }
 
 h1 {
-    position: absolute;
-    text-align: center;
+    /* position: absolute; */
+    /* text-align: center; */
 	font-family: Georgia, Times, "Times New Roman", serif;
 	font-size: 1.8em;
 	border-bottom: 2px solid rgb(76, 67, 65);
 	margin-bottom: 1.5em;
-	/* background: url(../_images/icon_sprites_50.png) no-repeat */
+	background: url(../_images/icon_sprites_50.png) no-repeat
 }
 
 .example_a {
